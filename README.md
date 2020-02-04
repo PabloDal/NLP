@@ -1,2 +1,2 @@
 # NLP
-NLP model for twitter data
+NLP models for twitter data
